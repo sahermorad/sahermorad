@@ -1,7 +1,5 @@
 Hi, I'm Saher Morad 👋
 
-Mechatronics Engineering Student
-
 I'm a Mechatronics Engineering student interested in understanding how engineering, programming, and technology work together.
 
 🎓 About Me
