@@ -1,16 +1,38 @@
-## Hi there 👋
+Hi, I'm Saher Morad 👋
 
-<!--
-**sahermorad/sahermorad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechatronics Engineering Student
 
-Here are some ideas to get you started:
+I'm a Mechatronics Engineering student interested in understanding how engineering, programming, and technology work together.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 About Me
+
+- 🎓 Studying Mechatronics Engineering.
+- 🤖 Interested in Robotics and Automation.
+- 💻 Learning Programming and Embedded Systems.
+- 🚀 Interested in Aerospace Engineering.
+- 🔬 Passionate about practical engineering projects and continuous learning.
+
+🛠️ Areas of Interest
+
+- Robotics
+- Embedded Systems
+- Arduino & ESP32
+- Electronics
+- C / C++
+- Python
+- Aerospace Engineering
+
+🎯 My Goals
+
+- Build practical engineering projects.
+- Develop strong programming skills.
+- Learn robotics and control systems.
+- Pursue advanced studies in Aerospace Engineering.
+
+📂 Projects
+
+I'm currently developing my engineering and programming skills. More projects coming soon!
+
+---
+
+Learning, Building, and Improving.
